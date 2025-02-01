@@ -10,7 +10,7 @@ public class ConfigLoader {
     private static final Properties properties = new Properties();
 
     static {
-        try (InputStream input = new FileInputStream("C:\\Users\\utente\\ProjetHadad\\testRepo\\AI Holographic Assistant\\config.proprities")) {
+        try (InputStream input = new FileInputStream("C:\\Users\\utente\\ProjetHadad\\testRepo\\AI Holographic Assistant\\config.properties")) {
             properties.load(input);
         } catch (IOException ex) {
             System.err.println("Could not load config.properties: " + ex.getMessage());
