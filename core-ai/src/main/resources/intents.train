@@ -1,0 +1,24 @@
+greet	hello
+greet	hi there
+greet	hey, how's it going?
+greet	hello there!
+weather	what is the weather in Paris?
+weather	can you tell me the weather in New York?
+weather	how's the weather in London today?
+weather	will it rain in Tokyo tomorrow?
+weather	weather forecast for Rome please
+time	what time is it now?
+time	can you give me the current time?
+time	tell me the time
+date	what is today's date?
+date	what date is it?
+date	tell me the current date
+joke	tell me a joke
+joke	any funny jokes?
+joke	I'm in the mood for a joke
+quote	tell me a good quote
+quote	I need some inspiration
+quote	share a motivational quote
+news	what are the latest news
+news	what is happening in the world
+news	give me today's top headlines
