@@ -19,6 +19,7 @@ public class MainNlp {
         interpreter.registerCommand("joke", new JokeCommand());
         interpreter.registerCommand("quote", new QuoteCommande());
         interpreter.registerCommand("news", new NewsCommand());
+
         // (Register "calc" if needed)
 
         // Create NLP Interpreter (adjust model path as needed)

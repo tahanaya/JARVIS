@@ -22,6 +22,10 @@ public class Main {
         interpreter.registerCommand("weather", new WeatherCommand());
         interpreter.registerCommand("news", new NewsCommand());
 
+        interpreter.registerCommand("music", new MusicCommand());
+
+
+
         // Basic command line loop
         Scanner scanner = new Scanner(System.in);
         System.out.println("Welcome to Core AI. Type 'greet <name>' or 'exit' to quit.");
